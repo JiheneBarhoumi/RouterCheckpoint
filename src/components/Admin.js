@@ -3,7 +3,7 @@ import React from 'react';
 
 const Admin=()=>{
 
-    return <h2>Admin Area </h2>;
+    return <h2>Welcome Admin</h2>;
 }
 
 export default Admin;
