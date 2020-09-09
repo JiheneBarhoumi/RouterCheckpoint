@@ -1,0 +1,25 @@
+.products{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.productLinks{
+    background-color: rgb(165, 160, 160);
+    margin-right: 10%;
+    margin-left: 1%;
+    width: 50%;
+    
+}
+
+h1{
+    margin-left: 2%;
+}
+
+.productContent{
+    background-color: white;
+}
+ul{
+    list-style-type :none;
+    
+}
